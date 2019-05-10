@@ -1,0 +1,2 @@
+exemplo 3 vai dentro da feature/exemplo2
+
