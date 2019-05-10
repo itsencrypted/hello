@@ -1,0 +1,5 @@
+criando um exemplo de texto para ser adicionado dentro da branch feature/exemplo no github.
+
+pasta master sera a hello
+
+
